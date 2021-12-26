@@ -1,11 +1,11 @@
-# Mandelbrot set
+# Mandelbrot
 
 ## Description
 
 C++ code to generate the Mandelbrot fractal image in PPM format.
 Parallel version using OpenMP and MPI with a dynamic distribution for solving the problem.
  
- ![Mandelbrot set output](MandelbrotSetImg.png)
+ ![Mandelbrot set output](Mandelbrot.png)
  
 ## How to run and compile the parallel version (Windows)
 
