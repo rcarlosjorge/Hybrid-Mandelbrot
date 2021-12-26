@@ -9,7 +9,7 @@ Parallel version using OpenMP and MPI with a dynamic distribution for solving th
  
 ## How to run and compile the parallel version (Windows)
 
-Make sure you have a compiler with OpenMP support and have MS-MPI distribution installed on your computer and compile the `Hybrid.c` file.
+Make sure you have a compiler with OpenMP support and have MS-MPI distribution installed on your computer and compile the `Hybrid.cp` file.
 
 Then just run the following command in the project directory:
 
